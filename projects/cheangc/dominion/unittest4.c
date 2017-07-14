@@ -104,7 +104,7 @@ int main() {
 
 	//player's phase remain unchanged
 	totalTest++;
-	assertTrue(testG.phase == G.phase, "Player's phase remain unchanged", &passed, &allPassed);
+	assertTrue(testG.phase == 1, "Player's phase remain unchanged", &passed, &allPassed);
 
 
 	/****************** Test 4: Play an action card when numAction = 0 ******************/

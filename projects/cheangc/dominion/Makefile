@@ -60,37 +60,35 @@ unittestresult.out: cardtest1 cardtest2 cardtest3 cardtest4 unittest1 unittest2 
 	echo "Result for running unit tests:\n" > unittestresult.out
 	echo "unittest1.c" >> unittestresult.out
 	./unittest1 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "unittest2.c" >> unittestresult.out
 	./unittest2 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "unittest3.c" >> unittestresult.out
 	./unittest3 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "unittest4.c" >> unittestresult.out
 	./unittest4 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "cardtest1.c:" >> unittestresult.out
 	./cardtest1 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "cardtest2.c:" >> unittestresult.out
 	./cardtest2 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "cardtest3.c" >> unittestresult.out
 	./cardtest3 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "cardtest4.c" >> unittestresult.out
 	./cardtest4 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
-
-
+	gcov -b -c dominion.c >> unittestresult.out
 
 all: playdom player testDrawCard testBuyCard badTestDrawCard
 
