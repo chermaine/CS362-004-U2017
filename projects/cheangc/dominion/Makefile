@@ -1,3 +1,23 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Gist
+ @chermaine
+ Sign out
+ Unwatch 1
+  Star 0
+  Fork 105 chermaine/CS362-004-U2017
+forked from aburasa/CS362-004-U2017
+ Code  Pull requests 0  Projects 0  Wiki  Settings Insights 
+Branch: master Find file Copy pathCS362-004-U2017/projects/cheangc/dominion/Makefile
+e785ddc  12 minutes ago
+@chermaine chermaine Updated unit tests
+1 contributor
+RawBlameHistory     
+97 lines (69 sloc)  3.41 KB
 CFLAGS = -Wall -fpic -coverage -lm
 
 rngs.o: rngs.h rngs.c
@@ -60,39 +80,39 @@ unittestresult.out: cardtest1 cardtest2 cardtest3 cardtest4 unittest1 unittest2 
 	echo "Result for running unit tests:\n" > unittestresult.out
 	echo "unittest1.c" >> unittestresult.out
 	./unittest1 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "unittest2.c" >> unittestresult.out
 	./unittest2 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "unittest3.c" >> unittestresult.out
 	./unittest3 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "unittest4.c" >> unittestresult.out
 	./unittest4 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "cardtest1.c:" >> unittestresult.out
 	./cardtest1 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "cardtest2.c:" >> unittestresult.out
 	./cardtest2 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "cardtest3.c" >> unittestresult.out
 	./cardtest3 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
+	gcov -b -c dominion.c >> unittestresult.out
 
 	echo "cardtest4.c" >> unittestresult.out
 	./cardtest4 >> unittestresult.out
-	gcov dominion.c >> unittestresult.out
-
-
+	gcov -b -c dominion.c >> unittestresult.out
 
 all: playdom player testDrawCard testBuyCard badTestDrawCard
 
 clean:
 	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out badTestDrawCard badTestDrawCard.exe testDrawCard testDrawCard.exe cardtest1 cardtest1.exe cardtest2 cardtest2.exe cardtest3 cardtest3.exe cardtest4 cardtest4.exe unittest1 unittest1.exe unittest2 unittest2.exe unittest3 unittest3.exe unittest4 unittest4.exe 
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
