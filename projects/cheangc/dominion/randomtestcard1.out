@@ -1,8 +1,818 @@
+Result for running randomtestcard1:\n
+Random Testing: smithy
+
+Iteration #1:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #2:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #3:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #4:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #5:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #6:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #7:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #8:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #9:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #10:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+FAIL: No other changes to game state were made
+
+Iteration #11:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #12:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #13:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #14:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #15:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #16:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #17:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #18:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #19:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #20:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #21:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #22:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #23:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #24:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #25:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #26:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #27:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #28:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #29:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #30:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #31:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #32:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #33:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #34:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #35:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #36:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+FAIL: No other changes to game state were made
+
+Iteration #37:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #38:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #39:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #40:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #41:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #42:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #43:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #44:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #45:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #46:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #47:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #48:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #49:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #50:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #51:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #52:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #53:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #54:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #55:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #56:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #57:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #58:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #59:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #60:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #61:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #62:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+FAIL: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+FAIL: No other changes to game state were made
+
+Iteration #63:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #64:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #65:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #66:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #67:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #68:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #69:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #70:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #71:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #72:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #73:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #74:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #75:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #76:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #77:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #78:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #79:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #80:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #81:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #82:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #83:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #84:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #85:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #86:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #87:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #88:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #89:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #90:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #91:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #92:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #93:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #94:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #95:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #96:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #97:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #98:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #99:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+Iteration #100:
+PASS: smithyEffect(): return 0
+FAIL: Played gained a net of 2 cards
+PASS: Cards gained came from player's own deck
+PASS: Player's played card count has a net gained of 1
+PASS: Last played card is smithy
+PASS: No other changes to game state were made
+
+File 'dominion.c'
+Lines executed:10.23% of 557
+Branches executed:6.27% of 415
+Taken at least once:4.82% of 415
+Calls executed:5.26% of 95
+Creating 'dominion.c.gcov'
+
         -:    0:Source:dominion.c
         -:    0:Graph:dominion.gcno
         -:    0:Data:dominion.gcda
-        -:    0:Runs:3
-        -:    0:Programs:3
+        -:    0:Runs:1
+        -:    0:Programs:1
         -:    1:#include "dominion.h"
         -:    2:#include "dominion_helpers.h"
         -:    3:#include "rngs.h"
@@ -682,13 +1492,13 @@ branch  1 never executed
     #####:  473:    return 0;
         -:  474:}
         -:  475:
-function drawCard called 600 returned 100% blocks executed 92%
-      600:  476:int drawCard(int player, struct gameState *state){
+function drawCard called 400 returned 100% blocks executed 92%
+      400:  476:int drawCard(int player, struct gameState *state){
         -:  477:    int count;
         -:  478:    int deckCounter;
-      600:  479:    if (state->deckCount[player] <= 0){//Deck is empty
+      400:  479:    if (state->deckCount[player] <= 0){//Deck is empty
 branch  0 taken 1 (fallthrough)
-branch  1 taken 599
+branch  1 taken 399
         -:  480:        
         -:  481:        //Step 1 Shuffle the discard pile back into a deck
         -:  482:        int i;
@@ -733,19 +1543,19 @@ branch  1 taken 1
         -:  516:    }
         -:  517:    
         -:  518:    else{
-      599:  519:        int count = state->handCount[player];//Get current hand count for player
+      399:  519:        int count = state->handCount[player];//Get current hand count for player
         -:  520:        int deckCounter;
         -:  521:        if (DEBUG){//Debug statements
         -:  522:            printf("Current hand count: %d\n", count);
         -:  523:        }
         -:  524:        
-      599:  525:        deckCounter = state->deckCount[player];//Create holder for the deck count
-      599:  526:        state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to the hand
-      599:  527:        state->deckCount[player]--;
-      599:  528:        state->handCount[player]++;//Increment hand count
+      399:  525:        deckCounter = state->deckCount[player];//Create holder for the deck count
+      399:  526:        state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to the hand
+      399:  527:        state->deckCount[player]--;
+      399:  528:        state->handCount[player]++;//Increment hand count
         -:  529:    }
         -:  530:    
-      600:  531:    return 0;
+      400:  531:    return 0;
         -:  532:}
         -:  533:
 function getCost called 0 returned 0% blocks executed 0%
@@ -857,16 +1667,16 @@ call    0 returned 100
       100:  606:    return 0;
         -:  607:}
         -:  608:
-function adventurerEffect called 100 returned 100% blocks executed 40%
-      100:  609:int adventurerEffect(int currentPlayer, struct gameState *state, int handPos) {
-      100:  610:    int drawntreasure = 2;
+function adventurerEffect called 0 returned 0% blocks executed 0%
+    #####:  609:int adventurerEffect(int currentPlayer, struct gameState *state, int handPos) {
+    #####:  610:    int drawntreasure = 2;
         -:  611:    int cardDrawn;
         -:  612:    int temphand[MAX_HAND];
-      100:  613:    int z = 0;// this is the counter for the temp hand
+    #####:  613:    int z = 0;// this is the counter for the temp hand
         -:  614:    
-      200:  615:    while(drawntreasure<2) {
-branch  0 taken 0
-branch  1 taken 100 (fallthrough)
+    #####:  615:    while(drawntreasure<2) {
+branch  0 never executed
+branch  1 never executed
         -:  616:        //if the deck is empty we need to shuffle discard and add to deck
     #####:  617:        if (state->deckCount[currentPlayer] <1){
 branch  0 never executed
@@ -895,15 +1705,15 @@ branch  5 never executed
         -:  631:    }
         -:  632:    
         -:  633:    // discard all cards in play that have been drawn
-      200:  634:    while(z-1>=0){
-branch  0 taken 0
-branch  1 taken 100 (fallthrough)
+    #####:  634:    while(z-1>=0){
+branch  0 never executed
+branch  1 never executed
     #####:  635:        state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1];
     #####:  636:        z=z-1;
         -:  637:    }
         -:  638:    
         -:  639:    //discardCard(handPos, currentPlayer, state, 0)
-      100:  640:    return 0;
+    #####:  640:    return 0;
         -:  641:}
         -:  642:
 function councilRoomEffect called 0 returned 0% blocks executed 0%
@@ -936,21 +1746,21 @@ call    0 never executed
     #####:  663:    return 0;
         -:  664:}
         -:  665:
-function villageEffect called 100 returned 100% blocks executed 100%
-      100:  666:int villageEffect(int currentPlayer, struct gameState *state, int handPos) {
+function villageEffect called 0 returned 0% blocks executed 0%
+    #####:  666:int villageEffect(int currentPlayer, struct gameState *state, int handPos) {
         -:  667:    //+1 Card
-      100:  668:    drawCard(currentPlayer, state);
-call    0 returned 100
-      100:  669:    drawCard(currentPlayer, state);
-call    0 returned 100
+    #####:  668:    drawCard(currentPlayer, state);
+call    0 never executed
+    #####:  669:    drawCard(currentPlayer, state);
+call    0 never executed
         -:  670:    
         -:  671:    //+2 Actions
-      100:  672:    state->numActions = state->numActions + 1;
+    #####:  672:    state->numActions = state->numActions + 1;
         -:  673:    
         -:  674:    //discard played card from hand
-      100:  675:    discardCard(handPos, currentPlayer, state, 0);
-call    0 returned 100
-      100:  676:    return 0;
+    #####:  675:    discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+    #####:  676:    return 0;
         -:  677:}
         -:  678:
 function mineEffect called 0 returned 0% blocks executed 0%
@@ -1715,34 +2525,34 @@ call    0 never executed
     #####: 1197:    return -1;
         -: 1198:}
         -: 1199:
-function discardCard called 200 returned 100% blocks executed 78%
-      200: 1200:int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)
+function discardCard called 100 returned 100% blocks executed 78%
+      100: 1200:int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)
         -: 1201:{
         -: 1202:    
         -: 1203:    //if card is not trashed, added to Played pile 
-      200: 1204:    if (trashFlag < 1)
-branch  0 taken 200 (fallthrough)
+      100: 1204:    if (trashFlag < 1)
+branch  0 taken 100 (fallthrough)
 branch  1 taken 0
         -: 1205:    {
         -: 1206:        //add card to played pile
-      200: 1207:        state->playedCards[state->playedCardCount] = state->hand[currentPlayer][handPos]; 
-      200: 1208:        state->playedCardCount++;
+      100: 1207:        state->playedCards[state->playedCardCount] = state->hand[currentPlayer][handPos]; 
+      100: 1208:        state->playedCardCount++;
         -: 1209:    }
         -: 1210:    
         -: 1211:    //set played card to -1
-      200: 1212:    state->hand[currentPlayer][handPos] = -1;
+      100: 1212:    state->hand[currentPlayer][handPos] = -1;
         -: 1213:    
         -: 1214:    //remove card from player's hand
-      200: 1215:    if ( handPos == (state->handCount[currentPlayer] - 1) ) 	//last card in hand array is played
+      100: 1215:    if ( handPos == (state->handCount[currentPlayer] - 1) ) 	//last card in hand array is played
 branch  0 taken 0 (fallthrough)
-branch  1 taken 200
+branch  1 taken 100
         -: 1216:    {
         -: 1217:        //reduce number of cards in hand
     #####: 1218:        state->handCount[currentPlayer]--;
         -: 1219:    }
-      200: 1220:    else if ( state->handCount[currentPlayer] == 1 ) //only one card in hand
+      100: 1220:    else if ( state->handCount[currentPlayer] == 1 ) //only one card in hand
 branch  0 taken 0 (fallthrough)
-branch  1 taken 200
+branch  1 taken 100
         -: 1221:    {
         -: 1222:        //reduce number of cards in hand
     #####: 1223:        state->handCount[currentPlayer]--;
@@ -1750,14 +2560,14 @@ branch  1 taken 200
         -: 1225:    else 	
         -: 1226:    {
         -: 1227:        //replace discarded card with last card in hand
-      200: 1228:        state->hand[currentPlayer][handPos] = state->hand[currentPlayer][ (state->handCount[currentPlayer] - 1)];
+      100: 1228:        state->hand[currentPlayer][handPos] = state->hand[currentPlayer][ (state->handCount[currentPlayer] - 1)];
         -: 1229:        //set last card to -1
-      200: 1230:        state->hand[currentPlayer][state->handCount[currentPlayer] - 1] = -1;
+      100: 1230:        state->hand[currentPlayer][state->handCount[currentPlayer] - 1] = -1;
         -: 1231:        //reduce number of cards in hand
-      200: 1232:        state->handCount[currentPlayer]--;
+      100: 1232:        state->handCount[currentPlayer]--;
         -: 1233:    }
         -: 1234:    
-      200: 1235:    return 0;
+      100: 1235:    return 0;
         -: 1236:}
         -: 1237:
 function gainCard called 0 returned 0% blocks executed 0%
@@ -1805,43 +2615,43 @@ branch  1 never executed
     #####: 1272:    return 0;
         -: 1273:}
         -: 1274:
-function updateCoins called 100 returned 100% blocks executed 73%
-      100: 1275:int updateCoins(int player, struct gameState *state, int bonus)
+function updateCoins called 0 returned 0% blocks executed 0%
+    #####: 1275:int updateCoins(int player, struct gameState *state, int bonus)
         -: 1276:{
         -: 1277:    int i;
         -: 1278:    
         -: 1279:    //reset coin count
-      100: 1280:    state->coins = 0;
+    #####: 1280:    state->coins = 0;
         -: 1281:    
         -: 1282:    //add coins for each Treasure card in player's hand
-    27592: 1283:    for (i = 0; i < state->handCount[player]; i++)
-branch  0 taken 27492
-branch  1 taken 100 (fallthrough)
+    #####: 1283:    for (i = 0; i < state->handCount[player]; i++)
+branch  0 never executed
+branch  1 never executed
         -: 1284:    {
-    27492: 1285:        if (state->hand[player][i] == copper)
-branch  0 taken 0 (fallthrough)
-branch  1 taken 27492
+    #####: 1285:        if (state->hand[player][i] == copper)
+branch  0 never executed
+branch  1 never executed
         -: 1286:        {
     #####: 1287:            state->coins += 1;
         -: 1288:        }
-    27492: 1289:        else if (state->hand[player][i] == silver)
-branch  0 taken 0 (fallthrough)
-branch  1 taken 27492
+    #####: 1289:        else if (state->hand[player][i] == silver)
+branch  0 never executed
+branch  1 never executed
         -: 1290:        {
     #####: 1291:            state->coins += 2;
         -: 1292:        }
-    27492: 1293:        else if (state->hand[player][i] == gold)
-branch  0 taken 0 (fallthrough)
-branch  1 taken 27492
+    #####: 1293:        else if (state->hand[player][i] == gold)
+branch  0 never executed
+branch  1 never executed
         -: 1294:        {
     #####: 1295:            state->coins += 3;
         -: 1296:        }	
         -: 1297:    }	
         -: 1298:    
         -: 1299:    //add bonus
-      100: 1300:    state->coins += bonus;
+    #####: 1300:    state->coins += bonus;
         -: 1301:    
-      100: 1302:    return 0;
+    #####: 1302:    return 0;
         -: 1303:}
         -: 1304:
         -: 1305:
