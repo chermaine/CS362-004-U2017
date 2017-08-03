@@ -1,0 +1,278 @@
+Noverse Bug Reporting Template
+==============================
+
+Title	: Smithy failed to gain 3 cards
+
+Class	: Serious Bug
+
+Date	: 30/07/2017    
+Reported By: Chermaine Cheang
+Email	: cheangc@oregonstate.edu
+
+
+Product	: smithyCard()           
+Platform: Mac OS                   
+Browser	: N/A                        
+
+Is it reproducible: Yes 
+
+Description
+===========
+Smithy drew the wrong amount of cards in all tests (unit and random). 
+Tested the effect of playing a smithy card but received the wrong amount 
+of cards after playing the smithy card. 
+
+
+Steps to Produce/Reproduce
+--------------------------
+1. Setup a valid game state
+	- random number of cards in player's deck, player's hand, player's discard card pile, 
+	and player's played card pile
+	- random player (1 or 2)
+2. Insert a smithy card into valid position in player's hand
+3. Play smithy card by either calling smithyCard() or cardEffect()
+4. Track number of cards gained after function from step 3 returns
+
+
+Expected Results
+----------------
+Player should have a net gain of 2 cards in player's hand
+
+
+Actual Results
+--------------
+Player gained a net of 5 cards
+
+
+Workarounds
+-----------
+None
+
+
+Attachments
+============
+
+Attachment 1: Result of running unit test on smithy card
+_____________________________________________________________
+																		
+	--Test 1: Player should receive 3 cards 							
+	FAIL: Player gained 3 cards 																						
+																
+Attachment 2: Screenshot of smithyCard() from dominion.c.gcov file					
+___________________________________________________________________																					
+	function smithyCard called 1 returned 100% blocks executed 100%					
+	        -:  650:void smithyCard(int handPos, struct gameState state){			
+	        1:  651:    int currentPlayer = whoseTurn(state);//get current player	
+	        -:  652:    int i;														
+	        -:  653:    //draw 3 cards													
+	4294967300:  654:    for (i = 0; i < 3; i--){									
+	branch  0 taken 2147483649 														
+	branch  1 taken 1 																
+	2147483649:  655:      drawCard(currentPlayer, state); 							
+	2147483649:  656:    } 															
+	        -:  657:    //discard card from hand 									
+	        1:  658:    discardCard(handPos, currentPlayer, state, 0);				
+	        -:  659: 																
+	        1:  660:}																
+																					
+							
+Attachment 3: Tracking of for loop in smithyCard using GDB				
+_____________________________________________________________																					
+	Breakpoint 5, smithyCard (handPos=0, state=0x7fffffff1190) at dominion.c:654	
+	654	    for (i = 0; i < 3; i--){												
+	(gdb) print i 																	
+	$1 = 32767 																		
+	(gdb) step 																		
+	655	      drawCard(currentPlayer, state); 										
+	(gdb) print i 																	
+	$2 = 0 																			
+	(gdb) next 																		
+	654	    for (i = 0; i < 3; i--){ 												
+	(gdb) print i 																	
+	$3 = 0 																			
+	(gdb) step 																		
+	655	      drawCard(currentPlayer, state); 										
+	(gdb) print i 																	
+	$4 = -1 																		
+	(gdb) next 																		
+	654	    for (i = 0; i < 3; i--){ 												
+	(gdb) step 																		
+	655	      drawCard(currentPlayer, state); 										
+	(gdb) print i 																	
+	$5 = -2 																		
+	(gdb) next 																		
+	654	    for (i = 0; i < 3; i--){												
+	(gdb) step 																		
+	655	      drawCard(currentPlayer, state); 										
+	(gdb) print i 																	
+	$6 = -3 																		
+	(gdb) next 																		
+	654	    for (i = 0; i < 3; i--){ 												
+	(gdb) step 																		
+	655	      drawCard(currentPlayer, state); 										
+	(gdb) print i 																		
+	$7 = -4																				
+																					
+
+
+Other Information
+-----------------
+Similar results obtained when performing random tests on playing a smithy card.
+
+From attachment 2, the for loop inside smithyCard ran a total of 4294967300 times 
+which is way more than required.
+
+From attachment 3, following the for loop iterations showed that the counter i was 
+decremented after each iteration instead of incremented. Hence, fixing the for loop to
+
+	for (int i = 0; i < 3; i++) {
+
+	}
+would fix the bug.
+
+
+
+Noverse Bug Reporting Template
+==============================
+
+Title	: Council_room failed to gain 4 cards    
+
+Class	: Serious bug
+
+Date	: 31/07/2017           
+Reported By: Chermaine Cheang  
+Email	: cheangc@oregonstate.edu  
+
+
+Product	: councilCard()                      
+Platform: Mac OS                    
+Browser : N/A                       
+
+Is it reproducible: Yes 
+
+Description
+===========
+Council_room drew the wrong amount of cards in all tests (unit and random). 
+Tested the effect of playing a council_room card but received the wrong amount 
+of cards after playing the council_room card. 
+
+
+Steps to Produce/Reproduce
+--------------------------
+1. Setup a valid game state
+	- random number of cards in player's deck, player's hand, player's discard card pile, 
+	and player's played card pile
+	- random player (1 or 2)
+2. Insert a council_room card into valid position in player's hand
+3. Play council_room card by either calling councilCard() or cardEffect()
+4. Track number of cards gained after function from step 3 returns
+
+
+Expected Results
+----------------
+A net gained of 3 cards in player's hand. i.e. player's handCount should increase by 3
+
+
+Actual Results
+--------------
+Player's handCount increased by 5.
+
+
+Workarounds
+-----------
+None
+
+
+Attachments
+=============
+
+Attachment 1: Result of running unit test on council_room card
+_______________________________________________________________
+																																		
+	--Current Player: Player 1										
+	FAIL: Gained 4 cards																
+																	
+
+Attachment 2: Screenshot of councilCard() from dominion.c.gcov file
+____________________________________________________________________							
+																					
+	function councilCard called 1 returned 100% blocks executed 100%				
+	        -:  696:void councilCard(int handPos, struct gameState state){			
+	        -:  697:  int i;														
+	        1:  698:  int currentPlayer = whoseTurn(state);							
+	        -:  699:																
+	        -:  700:  //+4 cards													
+	       12:  701:  for ( i = 0; i <= 4; i ++){									
+	branch  0 taken 5																
+	branch  1 taken 1																
+	        5:  702:    drawCard(currentPlayer, state);								
+	        5:  703:  }																
+	        -:  704:  //+1 buy 														
+	        1:  705:  state->numBuys++; 											
+	        -:  706://each other player draws a card 								
+	        6:  707:  for (i = 0; i < state->numPlayers; i++){ 						
+	branch  0 taken 2 																
+	branch  1 taken 1 																
+	        2:  708:    if (i != currentPlayer){ 									
+	branch  0 taken 1 																
+	branch  1 taken 1 																
+	        1:  709:      drawCard(i, state); 										
+	        1:  710:    } 															
+	        2:  711:  } 															
+	        1:  712:  discardCard(handPos, currentPlayer, state, 0); 				
+	        -:  713:																
+	        1:  714:}																
+																					
+						
+Attachment 3: Tracking of for loop in councilCard using GDB
+_____________________________________________________________							
+																					
+	Breakpoint 4, councilCard (handPos=0, state=0x7fffffff1190) at dominion.c:701		
+	701	  for ( i = 0; i <= 4; i ++){												
+	(gdb) step																		
+	702	    drawCard(currentPlayer, state);											
+	(gdb) print i																	
+	$10 = 0																			
+	(gdb) next																		
+	701	  for ( i = 0; i <= 4; i ++){												
+	(gdb) step																		
+	702	    drawCard(currentPlayer, state);											
+	(gdb) print i																	
+	$11 = 1																			
+	(gdb) next																		
+	701	  for ( i = 0; i <= 4; i ++){												
+	(gdb) step																		
+	702	    drawCard(currentPlayer, state);											
+	(gdb) print i																	
+	$12 = 2																			
+	(gdb) next																		
+	701	  for ( i = 0; i <= 4; i ++){												
+	(gdb) step																		
+	702	    drawCard(currentPlayer, state);											
+	(gdb) print i																	
+	$13 = 3																			
+	(gdb) next																		
+	701	  for ( i = 0; i <= 4; i ++){												
+	(gdb) step																		
+	702	    drawCard(currentPlayer, state);											
+	(gdb) print i																	
+	$14 = 4																			
+	(gdb) next																		
+	701	  for ( i = 0; i <= 4; i ++){												
+	(gdb) step																		
+	705	  state->numBuys++;															
+																					
+
+Other Information
+-----------------
+Similar results obtained when performing random tests on playing a council_room card.
+
+From attachment 2 and 3, drawCard() was called a total of 5 times instead of the expected 4. 
+The counter i should break out of the for loop when i = 4. Hence, setting the for loop to
+		for (int i = 0; i < 4; i++) {
+
+		}
+would fix the bug.
+
+
+
