@@ -1,5 +1,7 @@
-Final Project:
+This is our final project part B submission
 
-Part-B: Due date is Thursday, August 17th at 23:59 pm (PST).
-
+Group Members:
+Chermaine Cheang
+Philip Chang
+Victor Ness
 
